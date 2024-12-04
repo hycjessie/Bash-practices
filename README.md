@@ -1,2 +1,3 @@
 # Bash-practices
-This is the scripts and practices for bash and shell script
+This is my learning notes for bash and shell script
+
