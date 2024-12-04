@@ -1,7 +1,7 @@
 # Bash-practices
 This is my learning notes for bash and shell script, I hope to share more about my learning journey~
 
-##Background
+### Background
 I have a Linux background, and I would like to dive deeper into shell scripting for more automation.
 
 1. Learning from the basics
